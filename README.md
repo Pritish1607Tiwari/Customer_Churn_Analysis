@@ -38,7 +38,7 @@ F --> G[Insights & Recommendations]
 
 # Clone the repository
 
-git clone https://github.com/your-username/customer-churn-analysis.git
+git clone https://github.com/Pritish1607Tiwari/Customer_Churn_Analysis.git
 
 # Navigate to project folder
 
