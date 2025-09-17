@@ -75,8 +75,10 @@ jupyter notebook customer-churn-analysis.ipynb
 
 ✨ Extend to larger datasets for scalability
 
-👤 Author
+## 👤 Author
+
 Pritish Tiwari
+
 📧 pritish1607tiwari@gmail.com
 
 🌐 linkedin.com/in/pritishtiwari
