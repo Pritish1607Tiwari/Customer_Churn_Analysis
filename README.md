@@ -1,19 +1,19 @@
-📊 Customer Churn Analysis
+## 📊 Customer Churn Analysis
 
-📌 Overview
+## 📌 Overview
 
 Customer churn is one of the biggest challenges in e-commerce businesses.
 This project analyzes customer behavior, identifies churn patterns, and builds machine learning models to predict customer churn.
 
-🔑 Goal: Help businesses reduce churn by understanding customer engagement and retention patterns.
+## 🔑 Goal: Help businesses reduce churn by understanding customer engagement and retention patterns.
 
-📂 Project Files
+## 📂 Project Files
 
 📁 customer-churn-analysis.ipynb → Main notebook (EDA + ML model building)
 📁 ecommerce_customer_data_custom_ratios.csv → Dataset with customer metrics & churn labels
 📁 README.md → Project documentation (you’re reading it!)
 
-🗂 Dataset Highlights
+## 🗂 Dataset Highlights
 
 The dataset contains key customer information:
 
@@ -25,7 +25,7 @@ The dataset contains key customer information:
 
 🔄 Churn label (0 = Active, 1 = Churned)
 
-🚀 Workflow / Pipeline
+## 🚀 Workflow / Pipeline
 flowchart TD
 A[Data Collection] --> B[Data Cleaning & Preprocessing]
 B --> C[Exploratory Data Analysis (EDA)]
@@ -34,7 +34,7 @@ D --> E[Model Training]
 E --> F[Model Evaluation]
 F --> G[Insights & Recommendations]
 
-⚙️ Setup & Installation
+## ⚙️ Setup & Installation
 
 # Clone the repository
 
@@ -52,23 +52,22 @@ pip install -r requirements.txt
 
 jupyter notebook customer-churn-analysis.ipynb
 
-📊 Results & Key Insights
+## 📊 Results & Key Insights
 
 ✔️ Identified top churn drivers (low engagement, fewer repeat purchases, declining activity)
 ✔️ Built ML models to classify churners vs non-churners
 ✔️ Suggested actionable strategies to improve customer retention
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 ✨ Deploy churn prediction model as an API or Dashboard
 ✨ Integrate real-time monitoring for customer behavior
 ✨ Extend to larger datasets for scalability
 
 👤 Author
+Pritish Tiwari
+📧 pritish1607tiwari@gmail.com
 
-Your Name
-📧 your.email@example.com
-
-🌐 [LinkedIn / Portfolio link]
+🌐 linkedin.com/in/pritishtiwari
 
 ⚡ “Retention is the new growth — keeping customers is cheaper than acquiring new ones!” ⚡
